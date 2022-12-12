@@ -1,6 +1,6 @@
 # Password Generator
 ## Screenshot
-![Screenshot of the page](./assets/images/readme.png)
+![Screenshot of the page](./Develop/Readmesc.png)
 
 ## Description
 Build a randomly generated password by:
@@ -11,5 +11,6 @@ Build a randomly generated password by:
 * Refer to the License in repo.
 
 ## Link to Deployed Application
-Link:
+Link: https://samwright33.github.io/Password-Generator/
+
 
